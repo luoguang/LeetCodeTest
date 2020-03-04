@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce183788-a1cc-4d51-bea5-f1402f9271fa" name="Default Changelist" comment="" />
+    <list default="true" id="ce183788-a1cc-4d51-bea5-f1402f9271fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode001/LeetCode001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/LeetCode001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode002/LeetCode002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode002/LeetCode002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode002/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode002/src/main/java/com/luog/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode002/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode002/src/main/java/com/luog/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode002/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode006/LeetCode006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/LeetCode006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/src/main/java/com/luog/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/src/main/java/com/luog/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/src/main/java/com/luog/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode002/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode002/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode002/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution2$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Test.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +61,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1YfDcd8gze1t6JmVjPDFterV9lO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +83,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/LeetCode006/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCodeTest.iml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -35,14 +98,18 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luog" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="JUnit.UnitTest (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="LeetCode002" />
@@ -50,25 +117,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="LeetCode006" />
+    <configuration name="UnitTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luog" />
+      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="UnitTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode006" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luog" />
+      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luog" />
+      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testSolution3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luog" />
+      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="METHOD_NAME" value="testSolution3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest.testSolution4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luog" />
+      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="METHOD_NAME" value="testSolution4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.UnitTest (2)" />
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.UnitTest (1)" />
+        <item itemvalue="JUnit.UnitTest.testSolution4" />
+        <item itemvalue="JUnit.UnitTest.testSolution3" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +226,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583324836036</updated>
-      <workItem from="1583324841384" duration="2090000" />
+      <workItem from="1583324841384" duration="6109000" />
     </task>
     <servers />
   </component>
@@ -102,62 +234,78 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Project_Structure" timestamp="1583325648783">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1583330698766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583325648783" />
-    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583326753803">
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583330698766" />
+    <state x="303" y="42" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583327674633">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583326753803" />
+    <state x="303" y="42" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1583327674633" />
+    <state x="391" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583330659439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1583330659439" />
+    <state x="462" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583330662308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1583330662308" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583330876617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583330876617" />
     <state width="416" height="466" key="DebuggerActiveHint" timestamp="1583326252927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="416" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1583326252927" />
-    <state x="484" y="54" key="FileChooserDialogImpl" timestamp="1583326966362">
+    <state x="484" y="54" key="FileChooserDialogImpl" timestamp="1583328177439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="484" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583326966362" />
-    <state width="661" height="213" key="GridCell.Tab.0.bottom" timestamp="1583326811142">
+    <state x="484" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583328177439" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1583331038328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583326811142" />
-    <state width="661" height="213" key="GridCell.Tab.0.center" timestamp="1583326811141">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1583331038328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583326811141" />
-    <state width="661" height="213" key="GridCell.Tab.0.left" timestamp="1583326811141">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1583331038328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583326811141" />
-    <state width="661" height="213" key="GridCell.Tab.0.right" timestamp="1583326811142">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1583331038328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583326811142" />
-    <state width="661" height="213" key="GridCell.Tab.1.bottom" timestamp="1583326810650">
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
+    <state width="661" height="213" key="GridCell.Tab.1.bottom" timestamp="1583327810006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583326810650" />
-    <state width="661" height="213" key="GridCell.Tab.1.center" timestamp="1583326810650">
+    <state width="661" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
+    <state width="661" height="213" key="GridCell.Tab.1.center" timestamp="1583327810006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583326810650" />
-    <state width="661" height="213" key="GridCell.Tab.1.left" timestamp="1583326810650">
+    <state width="661" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
+    <state width="661" height="213" key="GridCell.Tab.1.left" timestamp="1583327810006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583326810650" />
-    <state width="661" height="213" key="GridCell.Tab.1.right" timestamp="1583326810650">
+    <state width="661" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
+    <state width="661" height="213" key="GridCell.Tab.1.right" timestamp="1583327810006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583326810650" />
+    <state width="661" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
     <state x="344" y="62" key="NewModule_or_Project.wizard" timestamp="1583326948118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="344" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1583326948118" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1583326969360">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583328594798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583326969360" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583328594798" />
+    <state x="482" y="142" key="chooseDestDirectoryDialog" timestamp="1583330757084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583330757084" />
     <state x="359" y="0" width="647" height="728" key="find.popup" timestamp="1583325108018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -166,17 +314,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="79" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583326353842" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583326795737">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583330965774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583326795737" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583330965774" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode002/src/Test.java</url>
+          <url>file://$PROJECT_DIR$/LeetCode002/src/main/java/com/luog/Test.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode002/src/test/java/com/luog/UnitTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
