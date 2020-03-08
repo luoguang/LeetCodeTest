@@ -1,39 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce183788-a1cc-4d51-bea5-f1402f9271fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ce183788-a1cc-4d51-bea5-f1402f9271fa" name="Default Changelist" comment="leetcode 093">
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/classes/META-INF/LeetCode001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/classes/com/luog/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/classes/com/luog/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/classes/com/luog/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/classes/com/luog/Solution4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode001/target/test-classes/com/luog/UnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/classes/META-INF/LeetCode002.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/classes/com/luog/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/classes/com/luog/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/classes/com/luog/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/test-classes/META-INF/LeetCode002.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode002/target/test-classes/com/luog/UnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/META-INF/LeetCode006.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/com/luog/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/com/luog/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/com/luog/Solution2$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/com/luog/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/com/luog/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/classes/com/luog/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode006/target/test-classes/com/luog/UnitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/LeetCode093.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/src/main/java/com/luog/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/src/main/java/com/luog/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/src/test/java/com/luog/UnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/classes/META-INF/LeetCode006.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/classes/com/luog/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/classes/com/luog/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/classes/com/luog/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/classes/com/luog/Solution3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/classes/com/luog/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode093/target/test-classes/com/luog/UnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode001/LeetCode001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/LeetCode001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode001/src/main/java/com/luog/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode001/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode002/LeetCode002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode002/LeetCode002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode002/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode002/src/main/java/com/luog/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode002/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode002/src/main/java/com/luog/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode002/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode006/LeetCode006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/LeetCode006.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/src/main/java/com/luog/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/src/main/java/com/luog/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode006/src/main/java/com/luog/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode006/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode001/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode002/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode002/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode002/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution2$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode006/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +100,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/LeetCode006/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCodeTest.iml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode093" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -108,15 +121,11 @@
       <recent name="com.luog" />
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\code\LeetCodeTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnitTest (2)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="LeetCode002" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UnitTest.testSolution2">
     <configuration name="UnitTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode001" />
       <extension name="coverage">
@@ -147,6 +156,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnitTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode093" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luog" />
+      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode002" />
       <extension name="coverage">
@@ -162,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest.testSolution3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode001" />
+    <configuration name="UnitTest.testSolution2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode093" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.luog.*" />
@@ -172,23 +196,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.luog" />
       <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
-      <option name="METHOD_NAME" value="testSolution3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnitTest.testSolution4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luog" />
-      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
-      <option name="METHOD_NAME" value="testSolution4" />
+      <option name="METHOD_NAME" value="testSolution2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -196,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UnitTest.testSolution2" />
+        <item itemvalue="JUnit.UnitTest (3)" />
         <item itemvalue="JUnit.UnitTest (2)" />
         <item itemvalue="JUnit.UnitTest" />
         <item itemvalue="JUnit.UnitTest (1)" />
-        <item itemvalue="JUnit.UnitTest.testSolution4" />
-        <item itemvalue="JUnit.UnitTest.testSolution3" />
       </list>
     </recent_temporary>
   </component>
@@ -226,12 +234,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583324836036</updated>
-      <workItem from="1583324841384" duration="6109000" />
+      <workItem from="1583324841384" duration="6355000" />
+      <workItem from="1583651105526" duration="5890000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1583331180791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583331180791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="leetcode 093" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 093" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1583330698766">
@@ -254,70 +279,90 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583330876617" />
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1583655043121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1583655043121" />
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1583656813459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583656813459" />
     <state width="416" height="466" key="DebuggerActiveHint" timestamp="1583326252927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="416" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1583326252927" />
-    <state x="484" y="54" key="FileChooserDialogImpl" timestamp="1583328177439">
+    <state x="484" y="54" key="FileChooserDialogImpl" timestamp="1583651741078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="484" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583328177439" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1583331038328">
+    <state x="484" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583651741078" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1583656813652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1583331038328">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583656813652" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1583656813652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1583331038328">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583656813652" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1583656813652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1583331038328">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583656813652" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1583656813652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583331038328" />
-    <state width="661" height="213" key="GridCell.Tab.1.bottom" timestamp="1583327810006">
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583656813652" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1583656178806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
-    <state width="661" height="213" key="GridCell.Tab.1.center" timestamp="1583327810006">
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583656178806" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1583656178806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
-    <state width="661" height="213" key="GridCell.Tab.1.left" timestamp="1583327810006">
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583656178806" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1583656178806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
-    <state width="661" height="213" key="GridCell.Tab.1.right" timestamp="1583327810006">
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583656178806" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1583656178806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583327810006" />
-    <state x="344" y="62" key="NewModule_or_Project.wizard" timestamp="1583326948118">
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583656178806" />
+    <state x="344" y="62" key="NewModule_or_Project.wizard" timestamp="1583651747071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1583326948118" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1583328594798">
+    <state x="344" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1583651747071" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583651750547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583328594798" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583651750547" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583331186454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583331186454" />
     <state x="482" y="142" key="chooseDestDirectoryDialog" timestamp="1583330757084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="482" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583330757084" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583651133384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583651133384" />
     <state x="359" y="0" width="647" height="728" key="find.popup" timestamp="1583325108018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="0" width="647" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583325108018" />
+    <state x="376" y="155" key="git4idea.merge.GitPullDialog" timestamp="1583331234704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="155" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1583331234704" />
     <state x="79" y="0" key="new project wizard" timestamp="1583326353842">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="79" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583326353842" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583330965774">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583654922888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583330965774" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583654922888" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

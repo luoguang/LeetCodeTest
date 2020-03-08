@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LeetCode006" />
+        <module name="LeetCode093" />
         <module name="LeetCode002" />
         <module name="LeetCode001" />
       </profile>
@@ -15,6 +16,7 @@
       <module name="LeetCode001" target="1.8" />
       <module name="LeetCode002" target="1.8" />
       <module name="LeetCode006" target="1.8" />
+      <module name="LeetCode093" target="1.8" />
       <module name="LeetCodeTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
