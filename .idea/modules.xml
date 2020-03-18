@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode001/LeetCode001.iml" filepath="$PROJECT_DIR$/LeetCode001/LeetCode001.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode002/LeetCode002.iml" filepath="$PROJECT_DIR$/LeetCode002/LeetCode002.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode006/LeetCode006.iml" filepath="$PROJECT_DIR$/LeetCode006/LeetCode006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode015/LeetCode015.iml" filepath="$PROJECT_DIR$/LeetCode015/LeetCode015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode031/LeetCode031.iml" filepath="$PROJECT_DIR$/LeetCode031/LeetCode031.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode093/LeetCode093.iml" filepath="$PROJECT_DIR$/LeetCode093/LeetCode093.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode621/LeetCode621.iml" filepath="$PROJECT_DIR$/LeetCode621/LeetCode621.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeTest.iml" filepath="$PROJECT_DIR$/LeetCodeTest.iml" />
     </modules>
   </component>
