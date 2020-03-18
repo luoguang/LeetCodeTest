@@ -18,6 +18,8 @@ public class Solution2 {
             taskCounts[tasks[i] - 'A']++;
         }
 
+        // Collections.reverseOrder() 在方法调用返回一个比较器，它强行上实现Comparable接口的对象的集合的自然顺序相反。
+        // 默认排序相反，默认排序按照数字增序进行
         PriorityQueue<Integer> queue = new PriorityQueue<>(26, Collections.reverseOrder());
         for (int taskCount : taskCounts) {
             if (taskCount > 0) {
