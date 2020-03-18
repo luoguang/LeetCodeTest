@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce183788-a1cc-4d51-bea5-f1402f9271fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode621/LeetCode621.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode621/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode621/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +82,8 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.luog" />
       <recent name="" />
+      <recent name="com.luog" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\code\LeetCodeTest" />
@@ -98,7 +91,7 @@
       <recent name="G:\code\LeetCodeTest\LeetCode015\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnitTest">
+  <component name="RunManager" selected="JUnit.UnitTest (2)">
     <configuration name="UnitTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode015" />
       <extension name="coverage">
@@ -109,6 +102,15 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.luog" />
       <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode621" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,22 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest.testSolution1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode015" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.luog" />
-      <option name="MAIN_CLASS_NAME" value="com.luog.UnitTest" />
-      <option name="METHOD_NAME" value="testSolution1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UnitTest.testSolution2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode015" />
       <extension name="coverage">
@@ -179,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UnitTest (2)" />
         <item itemvalue="JUnit.UnitTest" />
         <item itemvalue="JUnit.UnitTest.testSolution1 (1)" />
         <item itemvalue="JUnit.UnitTest (1)" />
         <item itemvalue="JUnit.UnitTest.testSolution2 (1)" />
-        <item itemvalue="JUnit.UnitTest.testSolution1" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +200,7 @@
       <workItem from="1584084096105" duration="286000" />
       <workItem from="1584084454383" duration="578000" />
       <workItem from="1584166036293" duration="14432000" />
-      <workItem from="1584514463773" duration="1645000" />
+      <workItem from="1584514463773" duration="10216000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1583331180791</created>
@@ -244,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584514799566</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="leetcode 621">
+      <created>1584519500052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584519500052</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +246,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="leetcode 093" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 093" />
+    <MESSAGE value="leetcode 621" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 621" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -263,10 +257,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1584084514133" />
-    <state x="275" y="23" key="#Project_Structure" timestamp="1584166293760">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1584519646861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584166293760" />
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584519646861" />
     <state x="260" y="1" key="#UnitTest.testSolution1_(1)" timestamp="1584178841980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -287,54 +281,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583330876617" />
-    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1583655043121">
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1584522871577">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1583655043121" />
-    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1584514789643">
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1584522871577" />
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1584528521784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584514789643" />
-    <state width="416" height="466" key="DebuggerActiveHint" timestamp="1584181157586">
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584528521784" />
+    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1584527940823">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="416" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584181157586" />
+    <state width="448" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584527940823" />
     <state x="484" y="54" key="FileChooserDialogImpl" timestamp="1584515493646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584515493646" />
-    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1584181184331">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1584528521908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584181184331" />
-    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1584181184330">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584528521908" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1584528521907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584181184330" />
-    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1584181184330">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584528521907" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1584528521907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584181184330" />
-    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1584181184331">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584528521907" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1584528521908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584181184331" />
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1584181184331">
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584528521908" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1584528115538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584181184331" />
-    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1584181184331">
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584528115538" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1584528115538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584181184331" />
-    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1584181184331">
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584528115538" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1584528115538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584181184331" />
-    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1584181184331">
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584528115538" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1584528115538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584181184331" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584528115538" />
     <state x="344" y="62" key="NewModule_or_Project.wizard" timestamp="1583651747071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -343,10 +337,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584515496155" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584515114051">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584528566747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584515114051" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584528566747" />
     <state x="482" y="142" key="chooseDestDirectoryDialog" timestamp="1583330757084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -367,10 +361,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="79" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584514671203" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584181048447">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584528712437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584181048447" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584528712437" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,6 +390,7 @@
     <SUITE FILE_PATH="coverage/LeetCodeTest$UnitTest__3_.ic" NAME="UnitTest (3) Coverage Results" MODIFIED="1583659036158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.luog.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCodeTest$UnitTest__2_.ic" NAME="UnitTest (2) Coverage Results" MODIFIED="1584528016064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/LeetCodeTest$UnitTest_testSolution3.ic" NAME="UnitTest.testSolution3 Coverage Results" MODIFIED="1583659002563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.luog.*</FILTER>
     </SUITE>
