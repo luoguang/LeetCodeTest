@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce183788-a1cc-4d51-bea5-f1402f9271fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode086/src/main/java/com/luog/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode086/src/main/java/com/luog/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode086/src/test/java/com/luog/UnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode086/src/test/java/com/luog/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode086/target/classes/com/luog/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode086/target/classes/com/luog/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode086/target/test-classes/com/luog/UnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode086/target/test-classes/com/luog/UnitTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/LeetCode006/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode086/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,7 +95,7 @@
       <recent name="G:\code\LeetCodeTest\LeetCode015\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnitTest.testSolution1">
+  <component name="RunManager" selected="JUnit.UnitTest.testSolution2 (1)">
     <configuration name="UnitTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode206" />
       <extension name="coverage">
@@ -159,8 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest.testSolution2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode071" />
+    <configuration name="UnitTest.testSolution2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode086" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.luog.*" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UnitTest.testSolution2 (1)" />
         <item itemvalue="JUnit.UnitTest.testSolution1" />
         <item itemvalue="JUnit.UnitTest.testSolution1 (2)" />
         <item itemvalue="JUnit.UnitTest (1)" />
         <item itemvalue="JUnit.UnitTest.testSolution1 (1)" />
-        <item itemvalue="JUnit.UnitTest.testSolution2" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,7 @@
       <workItem from="1584514463773" duration="20859000" />
       <workItem from="1585563598659" duration="8609000" />
       <workItem from="1585646462105" duration="971000" />
-      <workItem from="1586076125383" duration="5312000" />
+      <workItem from="1586076125383" duration="6759000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1583331180791</created>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586077095023</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="leetcode 025">
+      <created>1586081705885</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586081705885</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,50 +373,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1585565469710" />
-    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1586077089337">
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1586081703421">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586077089337" />
-    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1586081475356">
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586081703421" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1586082857329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="465" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586081475356" />
+    <state width="465" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586082857329" />
     <state x="484" y="54" key="FileChooserDialogImpl" timestamp="1586077874228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586077874228" />
-    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1586081607577">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1586082988731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586081607577" />
-    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1586081607577">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586082988731" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1586082988731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586081607577" />
-    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1586081607577">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586082988731" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1586082988731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586081607577" />
-    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1586081607577">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586082988731" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1586082988731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586081607577" />
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1586081431735">
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586082988731" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1586082917919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586081431735" />
-    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1586081431735">
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586082917919" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1586082917919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586081431735" />
-    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1586081431735">
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586082917919" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1586082917919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586081431735" />
-    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1586081431735">
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586082917919" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1586082917919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586081431735" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586082917919" />
     <state x="344" y="62" key="NewModule_or_Project.wizard" timestamp="1583651747071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -418,10 +425,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585570745711" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586077103054">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1586081717587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586077103054" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586081717587" />
     <state x="482" y="142" key="chooseDestDirectoryDialog" timestamp="1583330757084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -442,10 +449,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="79" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584514671203" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586081405495">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586082745545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586081405495" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586082745545" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -475,9 +482,9 @@
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode086/src/main/java/com/luog/Solution1.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="53" />
+          <url>file://$PROJECT_DIR$/LeetCode086/src/main/java/com/luog/Solution2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

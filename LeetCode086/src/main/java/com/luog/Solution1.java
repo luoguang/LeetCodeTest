@@ -1,6 +1,9 @@
 package com.luog;
 
 public class Solution1 {
+    /**
+     * 双指针，移动元素
+     */
     public ListNode partition(ListNode head, int x) {
         if (head == null) {
             return null;

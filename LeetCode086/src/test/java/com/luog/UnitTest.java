@@ -50,6 +50,18 @@ public class UnitTest {
         print(node);
     }
 
+    @Test
+    public void testSolution2() {
+        Solution2 solution = new Solution2();
+
+        long start = System.currentTimeMillis();
+        ListNode node = solution.partition(listNode, x);
+        long end = System.currentTimeMillis();
+        System.out.println((end - start) + "ms");
+
+        print(node);
+    }
+
     private void print(ListNode node) {
         if (node == null) {
             return;
