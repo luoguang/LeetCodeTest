@@ -13,8 +13,10 @@
         <module name="LeetCode621" />
         <module name="LeetCode071" />
         <module name="LeetCode015" />
+        <module name="LeetCode025" />
         <module name="LeetCode093" />
         <module name="LeetCode031" />
+        <module name="LeetCode206" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,9 +25,12 @@
       <module name="LeetCode006" target="1.8" />
       <module name="LeetCode015" target="1.8" />
       <module name="LeetCode015 (1)" target="1.8" />
+      <module name="LeetCode025" target="1.8" />
       <module name="LeetCode031" target="1.8" />
       <module name="LeetCode071" target="1.8" />
+      <module name="LeetCode071 (1)" target="1.8" />
       <module name="LeetCode093" target="1.8" />
+      <module name="LeetCode206" target="1.8" />
       <module name="LeetCode621" target="1.8" />
       <module name="LeetCode621 (1)" target="1.8" />
       <module name="LeetCode622" target="1.8" />
