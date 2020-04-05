@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LeetCode006" />
+        <module name="LeetCode086" />
         <module name="LeetCode002" />
         <module name="LeetCode001" />
         <module name="LeetCode622" />
@@ -29,6 +30,7 @@
       <module name="LeetCode031" target="1.8" />
       <module name="LeetCode071" target="1.8" />
       <module name="LeetCode071 (1)" target="1.8" />
+      <module name="LeetCode086" target="1.8" />
       <module name="LeetCode093" target="1.8" />
       <module name="LeetCode206" target="1.8" />
       <module name="LeetCode621" target="1.8" />
