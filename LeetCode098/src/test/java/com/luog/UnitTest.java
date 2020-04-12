@@ -3,8 +3,6 @@ package com.luog;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.util.List;
-
 public class UnitTest {
     private TreeNode root;
 
@@ -12,7 +10,7 @@ public class UnitTest {
 
     @Before
     public void before() {
-        array = new Integer[]{3, 9, 20, null, null, 15, 7};
+        array = new Integer[]{5, 1, 4, null, null, 3, 6};
 
         root = createBinaryTreeByArray(array, 0);
     }
@@ -20,8 +18,6 @@ public class UnitTest {
     @Test
     public void testSolution1() {
         Solution1 solution1 = new Solution1();
-        List<List<Integer>> list = solution1.levelOrderBottom(root);
-        print(list);
     }
 
     private TreeNode createBinaryTreeByArray(Integer[] array, int index) {
@@ -36,21 +32,5 @@ public class UnitTest {
             return treeNode;
         }
         return null;
-    }
-
-    private void print(List<List<Integer>> list) {
-        StringBuffer buffer = new StringBuffer();
-        buffer.append("[");
-        for (List<Integer> subList : list) {
-            buffer.append("[");
-            for (Integer val : subList) {
-                buffer.append(val).append(", ");
-            }
-            buffer.deleteCharAt(buffer.length() - 1);
-            buffer.deleteCharAt(buffer.length() - 1);
-            buffer.append("], ");
-        }
-        buffer.append("]");
-        System.out.println(buffer);
     }
 }
