@@ -13,6 +13,7 @@
         <module name="LeetCode071" />
         <module name="LeetCode086" />
         <module name="LeetCode025" />
+        <module name="LeetCode098" />
         <module name="LeetCode031" />
         <module name="LeetCode380" />
         <module name="LeetCode622" />
@@ -34,6 +35,7 @@
       <module name="LeetCode071 (1)" target="1.8" />
       <module name="LeetCode086" target="1.8" />
       <module name="LeetCode093" target="1.8" />
+      <module name="LeetCode098" target="1.8" />
       <module name="LeetCode107" target="1.8" />
       <module name="LeetCode206" target="1.8" />
       <module name="LeetCode380" target="1.8" />
