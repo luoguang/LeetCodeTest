@@ -10,7 +10,7 @@ public class UnitTest {
 
     @Before
     public void before() {
-        array = new Integer[]{5, 1, 4, null, null, 3, 6};
+        array = new Integer[]{1, 1};
 
         root = createBinaryTreeByArray(array, 0);
     }
@@ -18,6 +18,7 @@ public class UnitTest {
     @Test
     public void testSolution1() {
         Solution1 solution1 = new Solution1();
+        System.out.println(solution1.isValidBST(root));
     }
 
     private TreeNode createBinaryTreeByArray(Integer[] array, int index) {
