@@ -6,19 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LeetCode006" />
-        <module name="LeetCode086" />
-        <module name="LeetCode380" />
+        <module name="LeetCode206" />
         <module name="LeetCode002" />
         <module name="LeetCode001" />
+        <module name="LeetCode015" />
+        <module name="LeetCode071" />
+        <module name="LeetCode086" />
+        <module name="LeetCode025" />
+        <module name="LeetCode031" />
+        <module name="LeetCode380" />
         <module name="LeetCode622" />
         <module name="LeetCode621" />
-        <module name="LeetCode071" />
-        <module name="LeetCode015" />
-        <module name="LeetCode025" />
         <module name="LeetCode093" />
-        <module name="LeetCode031" />
-        <module name="LeetCode206" />
+        <module name="LeetCode107" />
+        <module name="LeetCode006" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +34,7 @@
       <module name="LeetCode071 (1)" target="1.8" />
       <module name="LeetCode086" target="1.8" />
       <module name="LeetCode093" target="1.8" />
+      <module name="LeetCode107" target="1.8" />
       <module name="LeetCode206" target="1.8" />
       <module name="LeetCode380" target="1.8" />
       <module name="LeetCode621" target="1.8" />
